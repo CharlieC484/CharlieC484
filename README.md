@@ -1,6 +1,3 @@
-### <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
-
-
 <!--
 **CharlieC484/CharlieC484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there! 👋
+###Hello there! 👋
 
 I'm Jieyuan Chen, and you can simply call me Charlie. I'm a  data science student diving deep into the fascinating world of data analysis and machine learning. My academic journey is currently centered around harnessing the power of Python, R and SQL, which are pivotal tools in the data science toolkit. 🌱
 
